@@ -1,4 +1,4 @@
-# SSL Cerfiicates
+# SSL Certificates
 
 By default, ICP install setups up self signed certificates. Customers can bring their own certs and apply them at install time, following the guidance here:
 
