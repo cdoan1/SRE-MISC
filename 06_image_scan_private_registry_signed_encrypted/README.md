@@ -3,7 +3,7 @@
 IBM Cloud Private enterprise edition is distributed from IBM Passport Advantage, specifically, for x86:
 IBM Cloud Private 3.2 for Linux (x86_64) Docker English (CC1W1EN)
 
-After downloading that part number, you will have tar ball, ibm-cloud-private-x86_64-3.2.0.tar.gz.
+After downloading that part number, you will have tar file, ibm-cloud-private-x86_64-3.2.0.tar.gz.
 
 Follow these steps to load the docker images into docker.
 
